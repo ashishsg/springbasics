@@ -1,0 +1,4 @@
+springbasics\app\SpringBasicsBrotliApplication.class
+springbasics\app\HttpInvokerBrotliServiceExporter.class
+springbasics\app\HttpInvokerGzipServiceExporter.class
+springbasics\app\SpringBasicsGzipApplication.class
